@@ -59,7 +59,7 @@
   />
 </p>
 
-<h3 align="center">DevOSP / OS / Tools:</h3>
+<h3 align="center">DevOSP / OS / Otras Herramientas:</h3>
 <p align="center">
   <img
     alt="Static Badge"
